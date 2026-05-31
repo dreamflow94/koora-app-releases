@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "build_number": 7,
-  "android_url": "https://github.com/dreamflow94/koora-app-releases/releases/download/v1.0.6/Koora.apk",
-  "release_notes": "- تغيير محرك التشغيل إلى libmpv لأداء أفضل على جميع الأجهزة\n- إصلاح مشكلة تجميد الصورة كل ثانية\n- دعم كامل للتلفازات القديمة والحديثة",
+  "version": "1.0.7",
+  "build_number": 8,
+  "android_url": "https://github.com/dreamflow94/koora-app-releases/releases/download/v1.0.7/Koora.apk",
+  "release_notes": "- إصلاح مشكلة SSL على التلفازات القديمة\n- العودة لمشغل ExoPlayer لأداء أفضل",
   "force_update": true
 }
