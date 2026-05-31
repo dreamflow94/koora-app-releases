@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "build_number": 2,
+  "version": "1.0.2",
+  "build_number": 3,
   "android_url": "https://github.com/dreamflow94/koora-app-releases/releases/download/v1.0.1/Koora.apk",
   "release_notes": "الإصدار الأول",
   "force_update": true
