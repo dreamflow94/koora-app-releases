@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "build_number": 12,
+  "version": "1.1.1",
+  "build_number": 11,
   "android_url": "https://github.com/dreamflow94/koora-app-releases/releases/download/v1.1.1/Koora.apk",
   "release_notes": "اصلاحات وتحسينات في الأداء.",
   "force_update": true
