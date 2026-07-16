@@ -2,6 +2,7 @@
   "version": "1.1.4",
   "build_number": 14,
   "apk_url": "https://github.com/dreamflow94/koora-app-releases/releases/download/v1.1.4/Koora.apk",
+  "android_url": "https://github.com/dreamflow94/koora-app-releases/releases/download/v1.1.4/Koora.apk",
   "release_notes": "اصلاحات وتحسينات في الأداء.\nدعم أندرويد 16.",
   "force_update": true
 }
